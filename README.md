@@ -4,7 +4,7 @@ Code Quiz Challenge
 --------------------------
 
 
-This web application demonstrates the Work Day Scheduler for the Fifth challenge for The Third-Party-Web API's Challenge.  On this webpage, you'll find  a Work Day Scheduler that allows you 
+This web application demonstrates the Work Day Scheduler for the Fifth challenge for The Third-Party-Web API's Challenge.  On this webpage, you'll find  a Work Day Scheduler that allows you to enter Tasks through the day and save the items when the browsers is refreshed.  The time is managed, so you can see where you are during the day( from 9AM-5PM)
 
 
 Tools Used:
