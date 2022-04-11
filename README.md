@@ -4,7 +4,9 @@ Code Quiz Challenge
 --------------------------
 
 
-*This web application demonstrates the Work Day Scheduler for the Fifth challenge for The Third-Party-Web API's Challenge.  On this webpage, you'll find  a Work Day Scheduler that allows you 
+This web application demonstrates the Work Day Scheduler for the Fifth challenge for The Third-Party-Web API's Challenge.  On this webpage, you'll find  a Work Day Scheduler that allows you 
+
+
 Tools Used:
 ----------
 
