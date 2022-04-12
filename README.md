@@ -1,6 +1,5 @@
 # Work-Day-Scheduler
 
-Code Quiz Challenge
 --------------------------
 
 
